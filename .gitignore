@@ -1,5 +1,6 @@
 *.gz
 *.xz
 *.xpi
+*.gem
 pkg
 src
