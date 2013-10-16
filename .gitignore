@@ -1,4 +1,5 @@
 *.gz
+*.tgz
 *.xz
 *.xpi
 *.gem
