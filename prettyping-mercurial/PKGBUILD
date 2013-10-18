@@ -3,7 +3,7 @@
 pkgname=prettyping-mercurial
 pkgver=20131018
 pkgrel=1
-pkgdesc="A better UI for watching ping responses"
+pkgdesc="prettyping.sh: a better UI for watching ping responses"
 arch=('any')
 url="http://my.opera.com/CrazyTerabyte/blog/2013/10/18/prettyping-sh-a-better-ui-for-watching-ping-responses"
 license=('MIT')
