@@ -5,7 +5,7 @@
 pkgname=ruby-json_pure
 _gemname=${pkgname#ruby-}
 pkgver=1.8.1
-pkgrel=2
+pkgrel=1
 pkgdesc="A ruby implementation of the JSON specification according to RFC 4627."
 arch=('any')
 url="http://flori.github.com/json"
